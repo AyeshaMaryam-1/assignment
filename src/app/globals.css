@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+.top-header{
+  display: flex;
+  gap: 150px;
+}
+.text{
+  margin-left: 300px;
+}
